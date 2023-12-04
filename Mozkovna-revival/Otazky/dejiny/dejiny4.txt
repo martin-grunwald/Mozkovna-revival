@@ -1,0 +1,5 @@
+c;Jaka bitva se udala v tricetilete valce?
+a: Bitva u Lipan
+b: Bitva u Wogastisburgu 
+c: Bitva na Bile hore
+d: Bitva u Krescaku

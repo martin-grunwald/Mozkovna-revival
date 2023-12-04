@@ -1,0 +1,5 @@
+a;Ktery hudebni nastroj je klicovy v tradicni indick hudb?
+a: Sitar
+b: Banjo 
+c: Harmonika
+d: Mandolina

@@ -1,0 +1,5 @@
+a;Co znamena slovo endemit?
+a: Zivocich vyskytujici se pouze v jedne oblasti 
+b: Zivocich vyskytujici se ve vsech oblastech
+c: Zivocich vyskytujici se v chladnych oblastech
+d: Zivocich vyskytujici se v teplych oblastech

@@ -1,0 +1,5 @@
+d;Kdo byl prvni cesky prezident?
+a: Tomas G. Masaryk
+b: Edvard Benes
+c: Vaclav Klaus
+d: Vaclav Havel

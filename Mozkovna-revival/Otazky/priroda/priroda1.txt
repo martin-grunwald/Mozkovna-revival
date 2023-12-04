@@ -1,0 +1,5 @@
+c;Ktere je nejvetsi zvire na svete?
+a: Slon
+b: Zirafa
+c: Plejtvak obrovsky 
+d: Kosatka

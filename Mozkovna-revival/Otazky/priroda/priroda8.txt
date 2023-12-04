@@ -1,0 +1,5 @@
+a;Ktere zvire spi vestoje? 
+a: Zirafa
+b: Lev
+c: Simpanz
+d: Kocka 

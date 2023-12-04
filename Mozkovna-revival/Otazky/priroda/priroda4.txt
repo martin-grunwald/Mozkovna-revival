@@ -1,0 +1,5 @@
+d;Jaky druh ptaku pozira sva mladata?
+a: Sojka
+b: Cap
+c: Sykorka
+d: Kukacka

@@ -1,0 +1,5 @@
+c;Ktere zvire zije pouze jeden den?
+a: Beruska
+b: Mravenec
+c: Jepice
+d: Vcela

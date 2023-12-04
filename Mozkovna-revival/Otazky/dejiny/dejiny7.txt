@@ -1,0 +1,5 @@
+a;Kdy byl vyhlasen Protektorat Cechy a Morava?
+a: 16. 3. 1939
+b: 5. 2. 1939
+c: 14. 1. 1938
+d: 31. 9. 1938

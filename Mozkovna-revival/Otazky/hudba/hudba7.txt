@@ -1,0 +1,5 @@
+a;Jak se nazyva prvni Mozartova skladba?
+a: Chleb s maslem 
+b: Fantazie v F moll
+c: Mala nocni hudba 
+d: Kouzelna fletna

@@ -1,0 +1,5 @@
+a;Kdo byl prvni cesky kral?
+a: Vratislav II
+b: Vaclav I
+c: Premysl Otakar II
+d: Karel IV

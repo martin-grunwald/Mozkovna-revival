@@ -1,0 +1,5 @@
+a;Ktere zvireci maso chutna jako mocovina?
+a: Zraloci
+b: Konske
+c: Zabi
+d: Psi

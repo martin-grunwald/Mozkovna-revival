@@ -1,0 +1,5 @@
+b;Jaky hudebni zanr je spojen s interpretem Bobem Marleyem?
+a: Salsa
+b: Reggae 
+c: Hip-hop 
+d: Funk

@@ -1,0 +1,5 @@
+b;Jaka dynastie u nas vladla pred druhou svetovou valkou?
+a: Premyslovci
+b: Habsburkove
+c: Romanovci
+d: Jagelonci

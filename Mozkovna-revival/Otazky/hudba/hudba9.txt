@@ -1,0 +1,5 @@
+a;Kdo slozil hudbu k baletu Louskacek?
+a: Cajkovskij 
+b: Rachmaninov
+c: Prokofjev
+d: Sostakovic
