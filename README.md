@@ -1,4 +1,10 @@
-# Interaktivní test
+# DŮLEŽITÉ:
+
+Složky "Otazky" a "Stats" musí být umístěny v "Mozkovna-revival\out\build\x64-debug\Mozkovna-revival", aby program fungval správně.
+
+***
+
+# Interaktivní test - zadání
 
 Cílem tohoto projektu je vytvořit program pro vyplňování a vyhodnocování interaktivních testů. Jedná se o testy ze studentem zvoleného oboru podané interaktivní (a zábavnou) formou.
 
@@ -10,9 +16,3 @@ Cílem tohoto projektu je vytvořit program pro vyplňování a vyhodnocování 
 5. Po každém vyplnění testu budou uložena statistická data, která se budou průměrovat ze všech testů ze stejné skupiny (dělených dle základních údajů apod).
 
 __Bonusový úkol:__ Implementujte do testů jeden z následujících způsobů interakce: “hra riskuj”, odkrývání “tajné” informace správnými odpověďmi
-
-***
-
-# DŮLEŽITÉ:
-
-Složky "Otazky" a "Stats" musí být umístěny v "Mozkovna-revival\out\build\x64-debug\Mozkovna-revival", aby program fungval správně.
