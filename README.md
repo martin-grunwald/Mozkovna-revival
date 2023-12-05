@@ -3,7 +3,8 @@
 Složky "Otazky" a "Stats" musí být umístěny v "Mozkovna-revival\out\build\x64-debug\Mozkovna-revival", aby program fungval správně.
 
 ***
-
+OTÁZKY
+Udělala bych třeba tři různé témata...něco obecného jako historie nebo hudba...
 # Interaktivní test - zadání
 
 Cílem tohoto projektu je vytvořit program pro vyplňování a vyhodnocování interaktivních testů. Jedná se o testy ze studentem zvoleného oboru podané interaktivní (a zábavnou) formou.
