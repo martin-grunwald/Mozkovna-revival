@@ -27,8 +27,9 @@ void ShowRules() // bude vypisovat pravidla
 	getchar();
 }
 
-void NewTest() // po zadani jmena tady zacina proces testu
+void NewTest()
 {
+	// zadani jmena
 	char nickname[NAME_SIZE];
 
 	system("cls");
@@ -36,6 +37,7 @@ void NewTest() // po zadani jmena tady zacina proces testu
 	scanf_s("%s", nickname, NAME_SIZE);
 	while (getchar() != '\n');
 
+	// vyber tematu
 	int topicCmd;
 	char chosenTopic[20];
 
@@ -49,6 +51,7 @@ void NewTest() // po zadani jmena tady zacina proces testu
 
 		topicCmd = tolower(getchar());
 
+		// do chosenTopic se ulozi string s nazvem tematu
 		if (topicCmd != EOF) {
 
 			switch ((char)topicCmd) {
@@ -61,8 +64,6 @@ void NewTest() // po zadani jmena tady zacina proces testu
 			case 'd':
 				snprintf(chosenTopic, sizeof(chosenTopic), "dejiny");
 				break;
-			default:
-				printf("Invalid choice\n");
 			}
 		}
 	} while (topicCmd != 'h' && topicCmd != 'p' && topicCmd != 'd');
@@ -73,13 +74,13 @@ void NewTest() // po zadani jmena tady zacina proces testu
 	int questionNumbers[QUESTIONS_PER_TEST];	// tady se budou generovat nahodna cisla otazek
 	GenerateQuestionNumbers(questionNumbers);	// funkce generuje vektor nahodnych cisel bez opakovani, pomoci ktereho se budou vybirat otazky
 
+	// PlayQuestion je samotny prubeh testu, numberOfCorrectAnswers je vystupem
 	int numberOfCorrectAnswers = PlayQuestions(questionNumbers, chosenTopic);
-
-	// free(chosenTopic);
 
 	system("cls");
 	printf("KONEC TESTU\n\nSkore: %d/6", numberOfCorrectAnswers);
 
+	// ukladani vysledku
 	storeResults(chosenTopic, nickname, numberOfCorrectAnswers);
 
 	getchar();
@@ -142,6 +143,7 @@ int main()
 			getchar();
 			break;
 		case 'v':
+			// mazani statistik
 			char clearCmd;
 			system("cls");
 			printf("Opravdu chcete smazat vsechna ulozena skore a resetovat vysledky?\n\n");

@@ -2,10 +2,12 @@
 
 #include "iostream"
 
+// definice potrebnych hodnot
 #define NAME_SIZE 32
 #define QUESTIONS_PER_TEST 6
 #define PLAYER_ANSWER_SIZE 32
 
+// funkce jsou popsane v tom .cpp souboru
 void GenerateQuestionNumbers(int questionNumbers[6]);
 void GetQuestion(const char* filename, char** correctAnswerToken, char** questionToken);
 void makeAlphabeticalsLowercase(char* input);
